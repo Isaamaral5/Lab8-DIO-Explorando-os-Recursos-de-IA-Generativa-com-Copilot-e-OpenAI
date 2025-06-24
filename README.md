@@ -87,6 +87,7 @@ A criação assistida por IA é a essência do Copilot e das ferramentas OpenAI,
 * **Democratização da Criação:** Pessoas sem experiência em design gráfico ou redação profissional podem criar conteúdo visualmente atraente ou textos bem escritos com a ajuda da IA.
 * **Colaboração Humano-IA:** O modelo mais eficaz de uso da IA é a colaboração, onde a IA atua como um parceiro que assiste, sugere e automatiza, enquanto o ser humano mantém o controle criativo e a supervisão.
 
+---
 ###
 
 _O Copilot e as ferramentas OpenAI estão revolucionando a forma como interagimos com a tecnologia e criamos conteúdo. Através de recursos de criação assistida por IA, eles capacitam indivíduos e organizações a serem mais produtivos e criativos. Simultaneamente, a implementação de filtros de conteúdo demonstra um compromisso com o uso responsável e ético dessas poderosas ferramentas, visando minimizar os riscos e garantir um ambiente digital mais seguro para todos. A evolução contínua dessas tecnologias promete um futuro onde a colaboração entre humanos e IA será cada vez mais integrada e transformadora._
